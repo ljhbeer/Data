@@ -1,1 +1,6 @@
-﻿在 FormCustomLog.ListBox1中 需要按住 Ctr建 点击图片名称 才会弹出 图片操作窗口
+﻿1、在 FormCustomLog.ListBox1中 需要按住 Ctr建 点击图片名称 才会弹出 图片操作窗口
+2、修复前复权，后复权不能解释的Bug
+3、添加 DrawStock 中 _nonebaseinfo后缀时，不再绘制基本信息 
+   格式如下 
+[img src="sz000540_day__2017-08-01_84_bfq"]
+[img src="sz000540_day__2017-08-01_84_bfq_nonebaseinfo"]
